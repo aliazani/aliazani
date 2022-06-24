@@ -1,6 +1,6 @@
 ### Hi there 👋
-  - 🔭 I’m currently working on pet_clinic
-  - 🌱 I’m currently learning spring-boot
+  - 🔭 I’m currently working on iot_core
+  - 🌱 I’m currently learning react
 
 <!--
 **aliazani/aliazani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
