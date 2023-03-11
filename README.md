@@ -1,6 +1,4 @@
 ### Hi there 👋
-  - 🔭 I’m currently working on iot_core
-  - 🌱 I’m currently learning react
 
 <!--
 **aliazani/aliazani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
